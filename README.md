@@ -1,1 +1,1 @@
-# tkinter-cash-register
+# tkinter-cash-register app 
